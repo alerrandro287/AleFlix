@@ -1,19 +1,19 @@
 body {
     color: rgb(255, 255, 255);
-    background: rgb(78, 142, 214);
+    background: rgb(58, 61, 65);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-    border-bottom: solid 6px rgb(32, 50, 213);
+    border-bottom: solid 6px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
     color: rgb(255, 255, 255);
 } 
 
 section{
-background: rgb(32, 50, 213);    
+background: rgb(0, 0, 0);    
 padding-bottom: 88px;
 padding-top: 88px;
 display: flex;
@@ -33,54 +33,3 @@ h1{
 p{
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
