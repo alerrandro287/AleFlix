@@ -6,14 +6,14 @@ body {
 }
 
 header {
-    border-bottom: solid 6px rgb(0, 0, 0);
+    border-bottom: solid 6px rgba(255, 0, 0, 0);
     padding: 20px;
     font-size: 32px;
     color: rgb(255, 255, 255);
 } 
 
 section{
-background: rgb(0, 0, 0);    
+background: rgba(255, 0, 0, 0.61);    
 padding-bottom: 88px;
 padding-top: 88px;
 display: flex;
@@ -37,7 +37,7 @@ p{
 IMG{
 
 
-height: 500;
+height: 300;
 
 
 }
